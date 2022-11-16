@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidYont
 - 👀 I’m interested in Video Games, Movies, Art, History, and occasionally I ski.
-- 🌱 I’m currently learning GameMakerStudio, and how to get a job fresh out of University
+- 🌱 I’m currently learning Unity, and how to get a job fresh out of University
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me: by email: davidyontbusiness@gmail.com
 
